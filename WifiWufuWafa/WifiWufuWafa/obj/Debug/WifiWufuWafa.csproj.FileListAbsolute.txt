@@ -1,0 +1,7 @@
+C:\Users\kiril\source\repos\WifiWufuWafa\WifiWufuWafa\bin\Debug\WifiWufuWafa.exe.config
+C:\Users\kiril\source\repos\WifiWufuWafa\WifiWufuWafa\bin\Debug\WifiWufuWafa.exe
+C:\Users\kiril\source\repos\WifiWufuWafa\WifiWufuWafa\bin\Debug\WifiWufuWafa.pdb
+C:\Users\kiril\source\repos\WifiWufuWafa\WifiWufuWafa\obj\Debug\WifiWufuWafa.csprojAssemblyReference.cache
+C:\Users\kiril\source\repos\WifiWufuWafa\WifiWufuWafa\obj\Debug\WifiWufuWafa.csproj.CoreCompileInputs.cache
+C:\Users\kiril\source\repos\WifiWufuWafa\WifiWufuWafa\obj\Debug\WifiWufuWafa.exe
+C:\Users\kiril\source\repos\WifiWufuWafa\WifiWufuWafa\obj\Debug\WifiWufuWafa.pdb
